@@ -6,8 +6,10 @@ To cite please use:
 ```
 @inproceedings{brekelmans2020qpaths,
   title  = {Annealed Importance Sampling with q-Paths},
-  author = {Rob Brekelmans* and Vaden Masrani* and Thang D Bui and Frank Wood and Aram Galstyan and Greg Ver Steeg and Frank Nielsen},
+  author = {Brekelmans*, Rob and Masrani*, Vaden and Bui, Thang and Wood, Frank and Galstyan, Aram and Ver Steeg, Greg and Nielsen, Frank},
   year   = {2020},
   booktitle = {NeurIPS Workshop on Deep Learning through Information Geometry}
 }
 ```
+
+
