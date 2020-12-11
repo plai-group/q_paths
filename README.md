@@ -1,8 +1,13 @@
-# alpha_ais
-AIS with HMC using autograd
+# Annealed Importance Sampling with q-Paths
+Code for [Annealed Importance Sampling with q-Paths](https://arxiv.org/) published at [NeurIPS 2020 Workshop](https://sites.google.com/view/dl-info-neurips20): Deep Learning through Information Geometry.
 
-# alpha path between N(-4, 3) and N(4, 1)
-![](./gif/alpha_path.gif)
+To cite please use:
 
-combines AIS code from [here](https://github.com/thangbui/annealed_is/tree/master/code/gaussian_ais) with HMC code from [here](https://github.com/ColCarroll/minimc/tree/master/minimc)
-
+```
+@inproceedings{brekelmans2020qpaths,
+  title  = {Annealed Importance Sampling with q-Paths},
+  author = {Rob Brekelmans* and Vaden Masrani* and Thang D Bui and Frank Wood and Aram Galstyan and Greg Ver Steeg and Frank Nielsen},
+  year   = {2020},
+  booktitle = {NeurIPS Workshop on Deep Learning through Information Geometry}
+}
+```
